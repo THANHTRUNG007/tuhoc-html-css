@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu dịch vụ du lịch</title>
+    <link rel="stylesheet" href="style.css"> </head>
+</head>
+<body>
+    <div class="banner-container">
+        <img src="C:\Users\46\Downloads\nguyễn-thành-trung.gif" alt="Banner Quảng Cáo">
+    </div>
+    <header>
+        <div class="banner-container">
+            </div>
+        
+    </header>
+    <main>
+        <section class="featured-tours">
+            <h2>Các Tour Du Lịch Ưu Đãi</h2>
+            <div class="tour-list">
+                <div class="tour-item">
+                    <img src="C:\nguyễn thành trung\tour-he-gia-khuyen-mai.jpg" alt="Tour 1">
+                    <h3>Tour Du Lịch Biển Hè [Ưu đãi 50%]</h3>
+                    <p>Khám phá những bãi biển tuyệt đẹp với ưu đãi hấp dẫn cho khách du lịch</p>
+                   
+                </div>
+                <div class="tour-item">
+                    <img src="vov.png.webp" alt="Tour 2">
+                    <h3>Tour Du Lịch Miền Núi [Ưu đãi đặc biệt]</h3>
+                    <p>Trải nghiệm không khí trong lành và cảnh quan hùng vĩ tại các tỉnh thành </p>
+                   
+                </div>
+                </div>
+        </section>
+
+        </main>
+        <footer>
+            <div class="contact-info">
+                <h3>Thông tin Liên hệ</h3>
+                <p>Công ty Du Lịch NTT</p>
+                <p>Địa chỉ: Số 4 Đường Nguyễn Huệ, Quận 5, Thành phố Thủ Đức...</p>
+                <p>Điện thoại: 0368447859</p>
+                <p>Email: info@dulichntt.com</p>
+            </div>
+            <p>&copy; 2024 Công ty Du Lịch NTT. All rights reserved.</p>
+        </footer>
+    
+        <script>
+            // (Nếu có JavaScript tương tác)
+        </script>
+       
+</body>
+</html>
